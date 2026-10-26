@@ -27,8 +27,7 @@ export default function Home() {
             <p className="kicker">Chennai, India</p>
             <h1 id="hero-title">I build the <em>whole</em> stack, from the database core to the browser in orbit.</h1>
             <p className="lead">
-              I’m Amid Hassan, an MCA student who builds web apps with React, Next.js, Node.js and PostgreSQL and deploys them on AWS.
-              I’m looking for developer roles in the UK, the EU, Australia and New Zealand, and I’m open to relocating for a role with visa sponsorship.
+              I’m Amid Hassan, an MCA student and full-stack developer building web applications with React, Next.js, Node.js, and PostgreSQL, with hands-on experience deploying applications on AWS. I’m seeking developer opportunities in the UK, Europe, Australia, and New Zealand, and I’m open to relocation and employer visa sponsorship.
             </p>
             <div className="cta">
               <a className="btn" href="#projects">See my projects</a>
