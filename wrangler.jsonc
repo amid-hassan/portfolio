@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "portfolio-website-orbit",
+  "compatibility_date": "2026-10-19",
+  "assets": {
+    "directory": "./out",
+    "not_found_handling": "404-page"
+  }
+}
